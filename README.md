@@ -83,3 +83,29 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 4. Le site est en ligne, pour le voir il faut visiter http://*username*.github.io/*remote_repository*
 
 **Félicitations, vous avez acquis les bases de Git et Github !** 
+
+## Si vous êtes bloqués, voici quelques ressources
+
+Débuter avec Git et Github (Le Wagon)
+https://www.youtube.com/watch?v=V6Zo68uQPqE 
+
+Gérer vos codes sources avec Git (OpenClassRooms)
+https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git 
+
+Git – petit guide
+http://rogerdudler.github.io/git-guide/index.fr.html 
+
+Git Beginner’s Guide for Dummies
+https://backlogtool.com/git-guide/en/ 
+
+Learn Git (CodeCademy)
+https://www.codecademy.com/learn/learn-git 
+
+Try Git (CodeSchool)
+https://www.codeschool.com/courses/try-git 
+
+La doc Github
+https://git-scm.com/docs 
+
+Tutoriel de démarrage
+https://guides.github.com/activities/hello-world/ 
