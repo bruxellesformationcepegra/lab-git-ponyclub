@@ -80,6 +80,6 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 1. Créer une branche **gh-pages**
 2. Se placer sur cette branche
 3. Faire un `git push` de cette branche
-4. Le site est en ligne, pour le voir il faut visiter http://**<username>**.github.io/**<remote_repository>**
+4. Le site est en ligne, pour le voir il faut visiter http://*username*.github.io/*remote_repository*
 
 **Félicitations, vous avez acquis les bases de Git et Github !** 
