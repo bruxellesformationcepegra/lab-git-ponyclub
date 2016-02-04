@@ -1,6 +1,6 @@
 # Pony Club
 
-Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nicolas Bauwens @nbwns à Bruxelles Formation Cepegra.
+Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nicolas Bauwens ([nbwns](https://github.com/nbwns)) à Bruxelles Formation Cepegra.
 
 ## Pour commencer
 
@@ -75,5 +75,4 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 2. Se placer dans le répertoire qui contient les projets
 3. Faire un `git clone` pour initialiser un nouveau repository à partir d'un projet existant
 
-Félicitations, vous avez acquis les bases de Git et Github ! 
-
+**Félicitations, vous avez acquis les bases de Git et Github !**
