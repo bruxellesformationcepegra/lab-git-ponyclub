@@ -1,5 +1,8 @@
 # Débutér avéc Git ét Github
 
+![git](/docs/git-logo.png)
+
+![gitHub](/docs/github-logo.jpg)
 
 ## Introduction
 
@@ -145,7 +148,7 @@ Image : https://backlogtool.com/git-guide/en/stepup/stepup1_1.html
 git branch <nom_de_la_branche>
 ```
 
-
+  
 ### Voir les branches
 
 ```
