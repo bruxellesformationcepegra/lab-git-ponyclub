@@ -2,6 +2,8 @@
 
 Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nicolas Bauwens ([nbwns](https://github.com/nbwns)) à Bruxelles Formation Cepegra.
 
+Le cours est disponible en .md et .pdf [dans le répertoire cours](cours/)
+
 ## Pour commencer
 
 1. Télécharger et installer Git
