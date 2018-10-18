@@ -79,10 +79,9 @@ Le cours est disponible en .md et .pdf [dans le répertoire cours](cours/)
 
 ## Activer les Github Pages
 
-1. Créer une branche **gh-pages**
-2. Se placer sur cette branche
-3. Faire un `git push` de cette branche
-4. Le site est en ligne, pour le voir il faut visiter http://*username*.github.io/*remote_repository*
+1. Aller dans "Settings"
+2. Activer les Github Pages en sélectionnant la branche master
+3. Youpiiii ! Le site est en ligne, pour le voir il faut visiter http://*username*.github.io/*remote_repository*
 
 **Félicitations, vous avez acquis les bases de Git et Github !** 
 
